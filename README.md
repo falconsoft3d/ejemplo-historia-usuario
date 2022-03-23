@@ -1,17 +1,20 @@
 # Ejemplo de historia de usuario para módulo de mantenimiento
 
 # 1
+```
 Cómo: usuario administrador de mantenimiento.
 Quiero: Poder administrar los equipos que utilizaremos.
 Para: Tener un maestro actualizado con los datos del equipo.
 Campos: Secuencia, Nombre, Fecha, responsable.
+```
 
 # 2
+```
 Cómo: usuario del módulo
 Quiero: Poder ver los equipos
 Para: Tener un maestro actualizado con los datos del equipo.
 Campos: Secuencia, Nombre, Fecha.
-
+```
 
 # Como
 “Como [perfil]”: ¿para quién desarrollamos esto? No solo buscamos un puesto, buscamos el perfil de la persona. Max. Nuestro equipo debería comprender quién es Max. Con suerte hemos entrevistado a muchos Max. Comprendemos cómo trabaja esa persona, cómo piensa y cómo se siente. Sentimos empatía por Max.
